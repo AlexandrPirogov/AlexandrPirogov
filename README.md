@@ -6,7 +6,7 @@ Here you can see my projects.
 
 Everything I study/learned can be seen [in my edu repo](https://github.com/eduAlexandrPirogov)
 
-- 📫 How to reach me: https://mail.google.com/mail/u/0/#inbox
+- 📫 How to reach me: devalexandrpirogov@gmail.com
 
 Now:
 - 🔭 I’m currently backend juniour developer (Laravel, PostgreSQL). 
