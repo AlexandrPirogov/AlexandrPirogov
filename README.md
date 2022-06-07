@@ -4,19 +4,19 @@ I'm backend juniour developer. Working in Dubna, Russia. Ready to work in anothe
 
 Here you can see my projects.
 
-# 📫 Contacts
+## 📫 Contacts
 - 📧 Gmail: devalexandrpirogov@gmail.com
 - 📱  Telegram: https://t.me/devAlexandrPirogov
 
-# 📘 Repo with my skills
+## 📘 Repo with my skills
 - 📕 Everything I study/learned can be seen [in my edu repo](https://github.com/eduAlexandrPirogov)
 
-# 📈 What goals i want to reach
+## 📈 What goals i want to reach
 - 💯 Be usefull for the team
 - 💻 Become C++ dev.
 - 🚀 Create massive applications. 
 
-# 😄 Skills that have been successfully applied at work
+## 😄 Skills that have been successfully applied at work
 - 🔎 Software testing. Have an experience of writing unit tests.
 - 🔨 TDD. Created 3 application using TDD.
 - 📜 Database design. Formal justification for the use of normal forms. Have experience in optimizing database schemas.
