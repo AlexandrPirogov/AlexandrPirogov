@@ -2,6 +2,9 @@
 
 I'm backend juniour developer. Working in Dubna, Russia. Ready to work in another city.
 
+Here you can see my projects.
+
+Everything I study/learned can be seen [in my edu repo](https://github.com/eduAlexandrPirogov)
 
 - 📫 How to reach me: https://mail.google.com/mail/u/0/#inbox
 
