@@ -4,13 +4,19 @@ I'm backend juniour developer. Working in Dubna, Russia. Ready to work in anothe
 
 Here you can see my projects.
 
-Everything I study/learned can be seen [in my edu repo](https://github.com/eduAlexandrPirogov)
+# 📫 Contacts
+- 📧 Gmail: devalexandrpirogov@gmail.com
+- 📱  Telegram: https://t.me/devAlexandrPirogov
 
-- 📫 How to reach me: devalexandrpirogov@gmail.com
-
-Now:
+# 📘 What am i learning now
 - 🔭 I’m currently backend juniour developer (Laravel, PostgreSQL). 
 - 🌱 I’m currently learning C++ (Multithreads, STL), GitLab.
+- 📕 Everything I study/learned can be seen [in my edu repo](https://github.com/eduAlexandrPirogov)
+- 
+# 📈 What goals i want to reach
+- Be usefull for the team
+- Become C++ dev.
+- Create massive applications. 
 
 # 😄 Skills that have been successfully applied at work
 
