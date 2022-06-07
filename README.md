@@ -12,19 +12,19 @@ Here you can see my projects.
 - 🔭 I’m currently backend juniour developer (Laravel, PostgreSQL). 
 - 🌱 I’m currently learning C++ (Multithreads, STL), GitLab.
 - 📕 Everything I study/learned can be seen [in my edu repo](https://github.com/eduAlexandrPirogov)
-- 
+
 # 📈 What goals i want to reach
-- Be usefull for the team
-- Become C++ dev.
-- Create massive applications. 
+- 💯 Be usefull for the team
+- 💻 Become C++ dev.
+- 🚀 Create massive applications. 
 
 # 😄 Skills that have been successfully applied at work
-
-- Software testing. Have an experience of writing unit tests.
-- TDD. Created 3 application using TDD.
-- Database design. Formal justification for the use of normal forms. Have experience in optimizing database schemas.
-- Docker. Know how to use docker, what is image, what is container. Created custom networks. Understand the difference between mount and volume.
-- PL/SQL. Created successfully procedures which operates with finances.
+- 🔎 Software testing. Have an experience of writing unit tests.
+- 🔨 TDD. Created 3 application using TDD.
+- 📜 Database design. Formal justification for the use of normal forms. Have experience in optimizing database schemas.
+- 🚚 Docker. Know how to use docker, what is image, what is container. Created custom networks. Understand the difference between mount and volume.
+- 🐘 PL/SQL. Created successfully procedures which operates with finances.
+- 🐰 RabbitMQ. Have an experience of using RabbitMQ.
 
 <!--
 **AlexandrPirogov/AlexandrPirogov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
