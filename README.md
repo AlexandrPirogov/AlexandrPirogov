@@ -20,7 +20,7 @@ Here you can see my projects.
 - 🔎 Software testing. Have an experience of writing unit tests.
 - 🔨 TDD. Created 3 application using TDD.
 - 📜 Database design. Formal justification for the use of normal forms. Have experience in optimizing database schemas.
-- 🚚 Docker. Know how to use docker, what is image, what is container. Created custom networks. Understand the difference between mount and volume.
+- 🐋 Docker. Know how to use docker, what is image, what is container. Created custom networks. Understand the difference between mount and volume.
 - 🐘 PL/SQL. Created successfully procedures which operates with finances.
 - 🐰 RabbitMQ. Have an experience of using RabbitMQ.
 
