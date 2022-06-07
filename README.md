@@ -8,9 +8,7 @@ Here you can see my projects.
 - 📧 Gmail: devalexandrpirogov@gmail.com
 - 📱  Telegram: https://t.me/devAlexandrPirogov
 
-# 📘 What am i learning now
-- 🔭 I’m currently backend juniour developer (Laravel, PostgreSQL). 
-- 🌱 I’m currently learning C++ (Multithreads, STL), GitLab.
+# 📘 Repo with my skills
 - 📕 Everything I study/learned can be seen [in my edu repo](https://github.com/eduAlexandrPirogov)
 
 # 📈 What goals i want to reach
