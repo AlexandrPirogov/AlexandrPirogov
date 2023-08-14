@@ -9,7 +9,11 @@ Most of time i'm reading computer science books (that's why my git pretty empty 
 and using best practices in my working routine.
 </p>
 <p>
-  Working as backend developer for 2 years.
+  Working as backend developer for 2 years:
+  <ol>
+    <li>PHP junior developer for 1.5 years</li>
+    <li>Erlang developer for 8 months</li>
+  </ol>
 </p>
 
 
