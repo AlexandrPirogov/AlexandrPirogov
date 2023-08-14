@@ -22,9 +22,18 @@
 ### OOP Patterns
 
 
+
 ## QA
 
 ### Testing
+
+|      Testing types               | 1<br>Familiar with | 2<br>Used it in practice | 3<br>Using it regular| 
+|:--------------------------------:|:------------------:|:------------------------:|:--------------------:|
+| Unit-Tests                       | ![done][done]      | ![done][done]            | ![done][done]        |
+| Fuzz                             | ![done][done]      | ![done][done]            |                      |
+| Autotests                        | ![done][done]      | ![done][done]            | ![done][done]        |
+| TDD                              | ![done][done]      | ![done][done]            | ![done][done]        |
+| Extreme TDD                      | ![done][done]      | ![done][done]            |                      |
 
 ### Сode reliability
 
