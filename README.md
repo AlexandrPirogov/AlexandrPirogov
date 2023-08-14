@@ -8,6 +8,9 @@ Started to be interested in computer science three years ago.
 Most of time i'm reading computer science books (that's why my git pretty empty :)
 and using best practices in my working routine.
 </p>
+<p>
+  Working as backend developer for 2 years.
+</p>
 
 
 ## Skills 
