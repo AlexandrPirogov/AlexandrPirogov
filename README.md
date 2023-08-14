@@ -11,7 +11,7 @@ and using best practices in my working routine.
 
 
 ## Skills 
-<table border="1" cellspacing="10" cellpadding="10">
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
       <p>Click on books to see my logs --> </p>
@@ -26,7 +26,7 @@ and using best practices in my working routine.
       </ul>
     </td>
      <td style="border: 0";>
-     <a href="https://alexandrpirogov.github.io/logs/"><img src="https://cdn-icons-png.flaticon.com/512/2232/2232688.png" alt="logs" width="200"/></a>
+     <a href="https://alexandrpirogov.github.io/logs/"><img src="https://static.vecteezy.com/system/resources/previews/001/761/774/original/stack-of-books-on-white-background-free-vector.jpg" alt="logs" width="300"/></a>
     </td>
   </tr>
 </table>
