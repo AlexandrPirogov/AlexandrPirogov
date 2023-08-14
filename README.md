@@ -26,7 +26,7 @@ and using best practices in my working routine.
       </ul>
     </td>
      <td style="border: 0";>
-     <a href="https://alexandrpirogov.github.io/logs/"><img src="https://static.vecteezy.com/system/resources/previews/001/761/774/original/stack-of-books-on-white-background-free-vector.jpg" alt="logs" width="300"/></a>
+     <a href="https://alexandrpirogov.github.io/logs/" target="_blank" rel="noopener noreferrer"><img src="https://static.vecteezy.com/system/resources/previews/001/761/774/original/stack-of-books-on-white-background-free-vector.jpg" alt="logs" width="300"/></a>
     </td>
   </tr>
 </table>
