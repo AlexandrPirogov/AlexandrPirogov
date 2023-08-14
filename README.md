@@ -7,7 +7,8 @@ Started to be interested in computer science three years ago.
 <a href="https://alexandrpirogov.github.io/logs/"><img src="https://cdn-icons-png.flaticon.com/512/2232/2232688.png" alt="drawing" width="200"/></a>
 
 
-Studied computer science topics such as:
+## Studied computer science topics
+
 * Computer systems architecture :computer:
 * Operating systems architucture :wrench:
 * Relational database internals :link:
