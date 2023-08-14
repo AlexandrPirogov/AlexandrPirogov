@@ -1,11 +1,17 @@
+
+
 ## Hi! I am Pirogov
 
+<p>
 I am Erlang-developer who loves computer science and explores software engineering. 
-Started to be interested in computer science three years ago. Most of time i'm reading computer science books (that's why my git pretty empty :)
-Obsessed with good code -- i eliminate even if/switch/for statements (yes, it possible :)
+Started to be interested in computer science three years ago. 
+Most of time i'm reading computer science books (that's why my git pretty empty :)
+and using best practices in my working routine.
+</p>
 
 
-<table border="0" cellspacing="0" cellpadding="0">
+## Skills 
+<table border="1" cellspacing="10" cellpadding="10">
   <tr>
     <td style="border: 0";>
       <p>Click on books to see my logs --> </p>
@@ -24,3 +30,27 @@ Obsessed with good code -- i eliminate even if/switch/for statements (yes, it po
     </td>
   </tr>
 </table>
+
+## Some facts about me
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+     <td style="border: 0";>
+       <img src="https://png.pngtree.com/png-vector/20190514/ourmid/pngtree-fact-file-format-icon-design-png-image_1041572.jpg" alt="logs" width="200"/>
+    </td>
+    <td style="border: 0";>
+      <p>Click on books to see my logs --> </p>
+      <h3>Studied computer science topics:</h3>
+      <ul>
+  <li> write easily in an imperative and functional style</li>
+  <li> scientific approach to problem solving</li>
+  <li> obsessed with good code - eliminate even if/switch/for statements</li>
+  <li> constantly learning new computer science topics</li>
+  <li> have an expierence with testing: unit, fuzz, autotests, TDD and extreme TDD.</li>
+</ul>
+    </td>
+    
+  </tr>
+</table>
+
+
