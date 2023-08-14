@@ -17,6 +17,8 @@ Started to be interested in computer science three years ago.
 * System design :rocket:
 * Parallelism and concurrency :gun:
 
+## My skills
+
 Familiar with next languages: C++, Golang, PHP, F#, Python, Java.
 
 Familiar with next insturments: Docker, RabbitMQ, Postgres, MongoDB, Redis, gRPC.
