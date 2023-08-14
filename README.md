@@ -1,42 +1,21 @@
-### Hi there 👋
+## Hi! I am Pirogov
 
-## Computer Science
+I am Erlang-developer who loves computer science and explores software engineering. 
+Started to be interested in computer science three years ago. 
 
-### Data Structures
-
-[done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
-
-|      Data Structure              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome   |
-|:--------------------------------:|:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
-| Lists, Queues, Stacks            | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |   ![done][done] |
-| Trees                            | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-| Heaps                            | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-| Dictionaries                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+## Press on image to see my study logs
+<a href="https://alexandrpirogov.github.io/logs/"><img src="https://cdn-icons-png.flaticon.com/512/2232/2232688.png" alt="drawing" width="200"/></a>
 
 
+Studied computer science topics such as:
+* Computer systems architecture :computer:
+* Operating systems architucture :wrench:
+* Relational database internals :link:
+* Computer networking :mailbox_closed:
+* Data structures and algorithms :mortar_board:
+* System design :rocket:
+* Parallelism and concurrency :gun:
 
-## Systems design
+Familiar with next languages: C++, Golang, PHP, F#, Python, Java.
 
-### Architucture & decomposition
-
-### OOP Patterns
-
-
-
-## QA
-
-### Testing
-
-|      Testing types               | 1<br>Familiar with | 2<br>Used it in practice | 3<br>Using it regular| 
-|:--------------------------------:|:------------------:|:------------------------:|:--------------------:|
-| Unit-Tests                       | ![done][done]      | ![done][done]            | ![done][done]        |
-| Fuzz                             | ![done][done]      | ![done][done]            |                      |
-| Autotests                        | ![done][done]      | ![done][done]            | ![done][done]        |
-| TDD                              | ![done][done]      | ![done][done]            | ![done][done]        |
-| Extreme TDD                      | ![done][done]      | ![done][done]            |                      |
-
-### Сode reliability
-
-
-
-## Database
+Familiar with next insturments: Docker, RabbitMQ, Postgres, MongoDB, Redis, gRPC.
