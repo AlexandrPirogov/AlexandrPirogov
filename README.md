@@ -6,18 +6,19 @@ Started to be interested in computer science three years ago.
 Most of time i'm reading computer science books (that's why my git pretty empty :)
 and using best practices in my working routine.
 </p>
-<p>
-  Working as backend developer for 2 years:
-  <ol>
-    <li>PHP junior developer for 1.5 years</li>
-    <li>Erlang developer for 8 months</li>
-  </ol>
-</p>
+
 
 <h1 align="center">Skills</h1>
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
+    <td>
+      Job expierence:
+        <ol>
+    <li>PHP junior developer for 1.5 years</li>
+    <li>Erlang developer for 8 months</li>
+  </ol>
+    </td>
     <td style="border: 0";>
       <p>Click on books to see my logs --> </p>
       <h3>Studied computer science topics:</h3>
