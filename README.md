@@ -12,15 +12,15 @@ and using best practices in my working routine.
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td>
-      Job expierence:
+    <td style="border: 0";>
+      <h3 align="center">Job expierence</h3>
         <ol>
     <li>PHP junior developer for 1.5 years</li>
     <li>Erlang developer for 8 months</li>
   </ol>
     </td>
     <td style="border: 0";>
-      <p>Click on books to see my logs --> </p>
+      <h3 align="center">Click on books to see my logs --> </h3>
       <h3>Studied computer science topics:</h3>
       <ul>
         <li>Computer systems architecture :computer:</li>
