@@ -38,10 +38,14 @@ and using best practices in my working routine.
 </table>
 
 <h1 align="center">Stats</h1>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=alexandrpirogov&show_icons=true&bg_color=ffffff&locale=en" alt="alexandrpirogov" />
+    </td>
+    <td>
+      <img  src="https://github-readme-streak-stats.herokuapp.com/?user=alexandrpirogov&" alt="alexandrpirogov" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=alexandrpirogov&show_icons=true&bg_color=ffffff&locale=en" alt="alexandrpirogov" />
-</p>
-<p align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=alexandrpirogov&" alt="alexandrpirogov" />
-</p>
