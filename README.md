@@ -20,7 +20,7 @@ and using best practices in my working routine.
   </ol>
     </td>
     <td style="border: 0";>
-      <h3 align="center">Click on books to see my logs --> </h3>
+      <h3 align="center">Click on books to see my logs</h3>
       <h3>Studied computer science topics:</h3>
       <ul>
         <li>Computer systems architecture :computer:</li>
